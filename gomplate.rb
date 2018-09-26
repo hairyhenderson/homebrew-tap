@@ -2,7 +2,7 @@ class Gomplate < Formula
   desc "A commandline Golang template processor"
   homepage "https://github.com/hairyhenderson/gomplate"
   url "https://github.com/hairyhenderson/gomplate/releases/download/v3.0.0/gomplate_darwin-amd64-slim"
-  sha256 "10b73c2a1f1c4a69591bc70b37adc4e361ad27bb0339b29999370e08ac114beb"
+  sha256 "aa672768ceb540b8ee885f5abd4791983df79f3d544187d0f64fb85c2ea1d93d"
   version "3.0.0"
 
   depends_on :arch => :x86_64
